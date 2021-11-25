@@ -1,0 +1,29 @@
+[
+    {
+        "petID": 1,
+        "name": "Sheesh",
+        "age": 32,
+        "species": "Wolf",
+        "color": "white",
+        "hobby": "Jumping Jacks",
+        "ownerID": 101
+    },
+    {
+        "petID": 2,
+        "name": "Ayyoo",
+        "age": 24,
+        "species": "Horse",
+        "color": "Golden",
+        "hobby": "Bookin it",
+        "ownerID": 102
+    },
+    {
+        "petID": 3,
+        "name": "Rexsi",
+        "age": 12000,
+        "species": "Trex",
+        "color": "grey",
+        "hobby": "chewing",
+        "ownerID": 103
+    }
+]
